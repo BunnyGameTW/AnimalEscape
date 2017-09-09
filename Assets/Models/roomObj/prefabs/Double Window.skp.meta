@@ -1,0 +1,452 @@
+fileFormatVersion: 2
+guid: 45887c6c90650644d948617802a30a1b
+timeCreated: 1503637169
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f0000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000860000008700000088000000890000008a0000008b0000008c0000008d0000008e0000008f000000900000009100000092000000930000009400000095000000960000009700000098000000990000009a0000009b0000009c0000009d0000009e000000
+  assetHash:
+    serializedVersion: 2
+    Hash: aef6e38cc676786975839e7c4605de1e
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 0.49603298, y: 2.2691863, z: 0.56469405}
+      lookAt: {x: 0.49603298, y: -0.01905, z: 0.56469405}
+      up: {x: 0, y: 0, z: 1}
+      fov: 30
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: B
+    100002: BGH
+    100004: BGV
+    100006: BGV copy 001
+    100008: BL
+    100010: BR
+    100012: BS
+    100014: BSB
+    100016: BSBL
+    100018: BSBR
+    100020: BSC
+    100022: BSL
+    100024: BSR
+    100026: BST
+    100028: BSTL
+    100030: BSTR
+    100032: CW
+    100034: //RootNode
+    100036: GH
+    100038: GV
+    100040: GV copy 001
+    100042: IBSB
+    100044: IBSBL
+    100046: IBSBR
+    100048: IBSC
+    100050: IBSL
+    100052: IBSR
+    100054: IBST
+    100056: IBSTL
+    100058: IBSTR
+    100060: IWB
+    100062: IWBL
+    100064: IWBR
+    100066: IWC
+    100068: IWF
+    100070: IWFB
+    100072: IWFBL
+    100074: IWFBR
+    100076: IWFL
+    100078: IWFR
+    100080: IWFT
+    100082: IWFTL
+    100084: IWFTR
+    100086: IWL
+    100088: IWR
+    100090: IWT
+    100092: IWTL
+    100094: IWTR
+    100096: L
+    100098: R
+    100100: S
+    100102: SB
+    100104: SBL
+    100106: SBR
+    100108: SC
+    100110: SL
+    100112: SR
+    100114: ST
+    100116: STL
+    100118: STR
+    100120: T
+    100122: TL
+    100124: TR
+    100126: TSB
+    100128: TSBL
+    100130: TSBR
+    100132: TSC
+    100134: TSL
+    100136: TSR
+    100138: TST
+    100140: TSTL
+    100142: TSTR
+    100144: W
+    100146: WF
+    400000: B
+    400002: BGH
+    400004: BGV
+    400006: BGV copy 001
+    400008: BL
+    400010: BR
+    400012: BS
+    400014: BSB
+    400016: BSBL
+    400018: BSBR
+    400020: BSC
+    400022: BSL
+    400024: BSR
+    400026: BST
+    400028: BSTL
+    400030: BSTR
+    400032: CW
+    400034: //RootNode
+    400036: GH
+    400038: GV
+    400040: GV copy 001
+    400042: IBSB
+    400044: IBSBL
+    400046: IBSBR
+    400048: IBSC
+    400050: IBSL
+    400052: IBSR
+    400054: IBST
+    400056: IBSTL
+    400058: IBSTR
+    400060: IWB
+    400062: IWBL
+    400064: IWBR
+    400066: IWC
+    400068: IWF
+    400070: IWFB
+    400072: IWFBL
+    400074: IWFBR
+    400076: IWFL
+    400078: IWFR
+    400080: IWFT
+    400082: IWFTL
+    400084: IWFTR
+    400086: IWL
+    400088: IWR
+    400090: IWT
+    400092: IWTL
+    400094: IWTR
+    400096: L
+    400098: R
+    400100: S
+    400102: SB
+    400104: SBL
+    400106: SBR
+    400108: SC
+    400110: SL
+    400112: SR
+    400114: ST
+    400116: STL
+    400118: STR
+    400120: T
+    400122: TL
+    400124: TR
+    400126: TSB
+    400128: TSBL
+    400130: TSBR
+    400132: TSC
+    400134: TSL
+    400136: TSR
+    400138: TST
+    400140: TSTL
+    400142: TSTR
+    400144: W
+    400146: WF
+    2300000: B
+    2300002: BGH
+    2300004: BGV
+    2300006: BGV copy 001
+    2300008: BL
+    2300010: BR
+    2300012: BSB
+    2300014: BSBL
+    2300016: BSBR
+    2300018: BSC
+    2300020: BSL
+    2300022: BSR
+    2300024: BST
+    2300026: BSTL
+    2300028: BSTR
+    2300030: CW
+    2300032: GH
+    2300034: GV
+    2300036: GV copy 001
+    2300038: IBSB
+    2300040: IBSBL
+    2300042: IBSBR
+    2300044: IBSC
+    2300046: IBSL
+    2300048: IBSR
+    2300050: IBST
+    2300052: IBSTL
+    2300054: IBSTR
+    2300056: IWB
+    2300058: IWBL
+    2300060: IWBR
+    2300062: IWC
+    2300064: IWFB
+    2300066: IWFBL
+    2300068: IWFBR
+    2300070: IWFL
+    2300072: IWFR
+    2300074: IWFT
+    2300076: IWFTL
+    2300078: IWFTR
+    2300080: IWL
+    2300082: IWR
+    2300084: IWT
+    2300086: IWTL
+    2300088: IWTR
+    2300090: L
+    2300092: R
+    2300094: SB
+    2300096: SBL
+    2300098: SBR
+    2300100: SC
+    2300102: SL
+    2300104: SR
+    2300106: ST
+    2300108: STL
+    2300110: STR
+    2300112: T
+    2300114: TL
+    2300116: TR
+    2300118: TSB
+    2300120: TSBL
+    2300122: TSBR
+    2300124: TSC
+    2300126: TSL
+    2300128: TSR
+    2300130: TST
+    2300132: TSTL
+    2300134: TSTR
+    3300000: B
+    3300002: BGH
+    3300004: BGV
+    3300006: BGV copy 001
+    3300008: BL
+    3300010: BR
+    3300012: BSB
+    3300014: BSBL
+    3300016: BSBR
+    3300018: BSC
+    3300020: BSL
+    3300022: BSR
+    3300024: BST
+    3300026: BSTL
+    3300028: BSTR
+    3300030: CW
+    3300032: GH
+    3300034: GV
+    3300036: GV copy 001
+    3300038: IBSB
+    3300040: IBSBL
+    3300042: IBSBR
+    3300044: IBSC
+    3300046: IBSL
+    3300048: IBSR
+    3300050: IBST
+    3300052: IBSTL
+    3300054: IBSTR
+    3300056: IWB
+    3300058: IWBL
+    3300060: IWBR
+    3300062: IWC
+    3300064: IWFB
+    3300066: IWFBL
+    3300068: IWFBR
+    3300070: IWFL
+    3300072: IWFR
+    3300074: IWFT
+    3300076: IWFTL
+    3300078: IWFTR
+    3300080: IWL
+    3300082: IWR
+    3300084: IWT
+    3300086: IWTL
+    3300088: IWTR
+    3300090: L
+    3300092: R
+    3300094: SB
+    3300096: SBL
+    3300098: SBR
+    3300100: SC
+    3300102: SL
+    3300104: SR
+    3300106: ST
+    3300108: STL
+    3300110: STR
+    3300112: T
+    3300114: TL
+    3300116: TR
+    3300118: TSB
+    3300120: TSBL
+    3300122: TSBR
+    3300124: TSC
+    3300126: TSL
+    3300128: TSR
+    3300130: TST
+    3300132: TSTL
+    3300134: TSTR
+    4300000: Mesh CW
+    4300002: Mesh T
+    4300004: Mesh TR
+    4300006: Mesh L
+    4300008: Mesh R
+    4300010: Mesh BR
+    4300012: Mesh B
+    4300014: Mesh BL
+    4300016: Mesh TL
+    4300018: Mesh TSBR
+    4300020: Mesh TSB
+    4300022: Mesh TSBL
+    4300024: Mesh TSR
+    4300026: Mesh TSC
+    4300028: Mesh TSL
+    4300030: Mesh TSTR
+    4300032: Mesh TST
+    4300034: Mesh TSTL
+    4300036: Mesh IWBL
+    4300038: Mesh IWL
+    4300040: Mesh IWTL
+    4300042: Mesh IWT
+    4300044: Mesh IWTR
+    4300046: Mesh IWR
+    4300048: Mesh IWBR
+    4300050: Mesh IWB
+    4300052: Mesh IWC
+    4300054: Mesh GV
+    4300056: Mesh GH
+    4300058: Mesh IWFTL
+    4300060: Mesh IWFT
+    4300062: Mesh IWFTR
+    4300064: Mesh IWFR
+    4300066: Mesh IWFBR
+    4300068: Mesh IWFB
+    4300070: Mesh IWFBL
+    4300072: Mesh IWFL
+    4300074: Mesh BSTL
+    4300076: Mesh BST
+    4300078: Mesh IBSBR
+    4300080: Mesh BGH
+    4300082: Mesh BSBL
+    4300084: Mesh BSB
+    4300086: Mesh IBSL
+    4300088: Mesh BSL
+    4300090: Mesh IBSTR
+    4300092: Mesh IBSB
+    4300094: Mesh BSBR
+    4300096: Mesh BSTR
+    4300098: Mesh BSR
+    4300100: Mesh IBSC
+    4300102: Mesh IBSBL
+    4300104: Mesh BSC
+    4300106: Mesh IBSR
+    4300108: Mesh BGV
+    4300110: Mesh IBST
+    4300112: Mesh IBSTL
+    4300114: Mesh STL
+    4300116: Mesh ST
+    4300118: Mesh STR
+    4300120: Mesh SL
+    4300122: Mesh SC
+    4300124: Mesh SR
+    4300126: Mesh SBL
+    4300128: Mesh SB
+    4300130: Mesh SBR
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

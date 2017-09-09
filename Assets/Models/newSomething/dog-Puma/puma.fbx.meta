@@ -1,0 +1,139 @@
+fileFormatVersion: 2
+guid: 98738cac98efd4246879d14dd8fc2ec0
+timeCreated: 1503655782
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: N_PUMA_Bip01_cedfc6b0c3b0d9_11_bone_0
+    100002: N_PUMA_Bip01_cedfc6b0c3b0d9_12_bone_0
+    100004: N_PUMA_Bip01_cedfc6b0c3b0d9_1_bone_0
+    100006: N_PUMA_Bip01_cedfc6b0c3b0d9_21_bone_0
+    100008: N_PUMA_Bip01_cedfc6b0c3b0d9_22_bone_0
+    100010: N_PUMA_Bip01_cedfc6b0c3b0d9_2_bone_0
+    100012: N_PUMA_Bip01_Head_bone_0
+    100014: N_PUMA_Bip01_L_Calf_bone_0
+    100016: N_PUMA_Bip01_L_Forearm_bone_0
+    100018: N_PUMA_Bip01_L_Thigh_bone_0
+    100020: N_PUMA_Bip01_L_UpperArm_bone_0
+    100022: N_PUMA_Bip01_Neck1_bone_0
+    100024: N_PUMA_Bip01_Neck_bone_0
+    100026: N_PUMA_Bip01_Pelvis_bone_0
+    100028: N_PUMA_Bip01_R_Calf_bone_0
+    100030: N_PUMA_Bip01_R_Forearm_bone_0
+    100032: N_PUMA_Bip01_R_Thigh_bone_0
+    100034: N_PUMA_Bip01_R_UpperArm_bone_0
+    100036: N_PUMA_Bip01_Spine1_bone_0
+    100038: N_PUMA_Bip01_Spine2_bone_0
+    100040: N_PUMA_Bip01_Spine_bone_0
+    100042: N_PUMA_Bip01_Tail1_bone_0
+    100044: N_PUMA_Bip01_Tail2_bone_0
+    100046: N_PUMA_Bip01_Tail3_bone_0
+    100048: N_PUMA_Bip01_Tail_bone_0
+    100050: N_puma_parts02_mesh_0
+    100052: //RootNode
+    400000: N_PUMA_Bip01_cedfc6b0c3b0d9_11_bone_0
+    400002: N_PUMA_Bip01_cedfc6b0c3b0d9_12_bone_0
+    400004: N_PUMA_Bip01_cedfc6b0c3b0d9_1_bone_0
+    400006: N_PUMA_Bip01_cedfc6b0c3b0d9_21_bone_0
+    400008: N_PUMA_Bip01_cedfc6b0c3b0d9_22_bone_0
+    400010: N_PUMA_Bip01_cedfc6b0c3b0d9_2_bone_0
+    400012: N_PUMA_Bip01_Head_bone_0
+    400014: N_PUMA_Bip01_L_Calf_bone_0
+    400016: N_PUMA_Bip01_L_Forearm_bone_0
+    400018: N_PUMA_Bip01_L_Thigh_bone_0
+    400020: N_PUMA_Bip01_L_UpperArm_bone_0
+    400022: N_PUMA_Bip01_Neck1_bone_0
+    400024: N_PUMA_Bip01_Neck_bone_0
+    400026: N_PUMA_Bip01_Pelvis_bone_0
+    400028: N_PUMA_Bip01_R_Calf_bone_0
+    400030: N_PUMA_Bip01_R_Forearm_bone_0
+    400032: N_PUMA_Bip01_R_Thigh_bone_0
+    400034: N_PUMA_Bip01_R_UpperArm_bone_0
+    400036: N_PUMA_Bip01_Spine1_bone_0
+    400038: N_PUMA_Bip01_Spine2_bone_0
+    400040: N_PUMA_Bip01_Spine_bone_0
+    400042: N_PUMA_Bip01_Tail1_bone_0
+    400044: N_PUMA_Bip01_Tail2_bone_0
+    400046: N_PUMA_Bip01_Tail3_bone_0
+    400048: N_PUMA_Bip01_Tail_bone_0
+    400050: N_puma_parts02_mesh_0
+    400052: //RootNode
+    4300000: N_puma_parts02_mesh_0
+    9500000: //RootNode
+    13700000: N_puma_parts02_mesh_0
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

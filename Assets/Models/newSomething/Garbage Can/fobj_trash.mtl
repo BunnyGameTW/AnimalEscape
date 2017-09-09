@@ -1,0 +1,9 @@
+# Created by Every File Explorer
+
+newmtl df_0_m
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.6039216 0.7098039 0.8156863
+d 1
+map_Kd Tex/fobj_trash.png
+

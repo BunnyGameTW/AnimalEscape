@@ -1,0 +1,6 @@
+Performing scene check  for invalid nodes, materials, maps etc. on the : 
+2017/8/27 - ¤W¤È 08:48:00
+Invalid material :"Plas" found on node : "Arch50_066".
+Invalid material :"Pla" found on node : "Arch50_066".
+Invalid material :"meta" found on node : "Arch50_066".
+Scene contains : 3 invalid features.

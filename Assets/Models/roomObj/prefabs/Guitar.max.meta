@@ -1,0 +1,200 @@
+fileFormatVersion: 2
+guid: e93e475dd98560246a4e895057f59cbe
+timeCreated: 1503650703
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Body
+    100002: Box03
+    100004: Box03 1
+    100006: Camera01
+    100008: Camera01.Target
+    100010: Dummy01
+    100012: GUITAR
+    100014: //RootNode
+    100016: Rectangle02
+    100018: Spot01
+    100020: Spot01.Target
+    100022: Spot02
+    100024: Spot02.Target
+    100026: Spot03
+    100028: Spot03.Target
+    100030: Spot04
+    100032: Spot04.Target
+    100034: Spot05
+    100036: Spot05.Target
+    100038: String1
+    100040: String2
+    100042: String3
+    100044: String4
+    100046: String5
+    100048: String6
+    100050: Tuning key1
+    100052: Tuning key2
+    100054: Tuning key3
+    100056: Tuning key4
+    100058: Tuning key5
+    100060: Tuning key6
+    400000: Body
+    400002: Box03
+    400004: Box03 1
+    400006: Camera01
+    400008: Camera01.Target
+    400010: Dummy01
+    400012: GUITAR
+    400014: //RootNode
+    400016: Rectangle02
+    400018: Spot01
+    400020: Spot01.Target
+    400022: Spot02
+    400024: Spot02.Target
+    400026: Spot03
+    400028: Spot03.Target
+    400030: Spot04
+    400032: Spot04.Target
+    400034: Spot05
+    400036: Spot05.Target
+    400038: String1
+    400040: String2
+    400042: String3
+    400044: String4
+    400046: String5
+    400048: String6
+    400050: Tuning key1
+    400052: Tuning key2
+    400054: Tuning key3
+    400056: Tuning key4
+    400058: Tuning key5
+    400060: Tuning key6
+    2000000: Camera01
+    2300000: Body
+    2300002: Box03
+    2300004: Box03 1
+    2300006: Rectangle02
+    2300008: String1
+    2300010: String2
+    2300012: String3
+    2300014: String4
+    2300016: String5
+    2300018: String6
+    2300020: Tuning key1
+    2300022: Tuning key2
+    2300024: Tuning key3
+    2300026: Tuning key4
+    2300028: Tuning key5
+    2300030: Tuning key6
+    3300000: Body
+    3300002: Box03
+    3300004: Box03 1
+    3300006: Rectangle02
+    3300008: String1
+    3300010: String2
+    3300012: String3
+    3300014: String4
+    3300016: String5
+    3300018: String6
+    3300020: Tuning key1
+    3300022: Tuning key2
+    3300024: Tuning key3
+    3300026: Tuning key4
+    3300028: Tuning key5
+    3300030: Tuning key6
+    4300000: Box03
+    4300002: Rectangle02
+    4300004: Box03
+    4300006: Body
+    4300008: String1
+    4300010: String2
+    4300012: String3
+    4300014: String4
+    4300016: String5
+    4300018: String6
+    4300020: Tuning key1
+    4300022: Tuning key2
+    4300024: Tuning key3
+    4300026: Tuning key4
+    4300028: Tuning key5
+    4300030: Tuning key6
+    7400000: Take 001
+    9500000: //RootNode
+    10800000: Spot01
+    10800002: Spot02
+    10800004: Spot03
+    10800006: Spot04
+    10800008: Spot05
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
