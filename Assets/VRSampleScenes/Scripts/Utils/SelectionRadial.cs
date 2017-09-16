@@ -266,7 +266,7 @@ namespace VRStandardAssets.Utils
         public void HandleDown()
         {
             // If the radial is active start filling it.
-            Debug.Log(m_IsSelectionRadialActive);
+        //    Debug.Log(m_IsSelectionRadialActive);
             if (m_IsSelectionRadialActive)
             {
                 m_SelectionFillRoutine = StartCoroutine(FillSelectionRadial());
